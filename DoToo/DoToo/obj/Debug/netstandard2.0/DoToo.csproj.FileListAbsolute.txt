@@ -3,3 +3,14 @@ C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard
 C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfoInputs.cache
 C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfo.cs
 C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csproj.CoreCompileInputs.cache
+C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.deps.json
+C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.dll
+C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\ref\DoToo.dll
+C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.pdb
+C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csproj.Fody.CopyLocal.cache
+C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.dll
+C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\ref\DoToo.dll
+C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.pdb
+C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\Views\ItemView.xaml.g.cs
