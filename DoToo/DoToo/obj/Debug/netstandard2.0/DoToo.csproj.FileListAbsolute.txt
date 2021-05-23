@@ -1,4 +1,3 @@
-C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csprojAssemblyReference.cache
 C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfoInputs.cache
 C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfo.cs
