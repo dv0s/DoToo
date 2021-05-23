@@ -2,9 +2,16 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:DoToo"
+             xmlns:converters="clr-namespace:DoToo.Converters"
              x:Class="DoToo.Views.MainView"
              Title="Do Too!">
 
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:StatusColorConverter x:Key="statusColorConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddItem}"/>
     </ContentPage.ToolbarItems>
@@ -18,7 +25,7 @@
         <Button Text="Toggle filter" />
 
         <ListView Grid.Row="1"
-                  RowHeight="70"
+                  RowHeight="100"
                   ItemsSource="{Binding Items}">
             <ListView.ItemTemplate>
                 <DataTemplate>
@@ -29,10 +36,11 @@
                                 <ColumnDefinition Width="*" />
                             </Grid.ColumnDefinitions>
 
-                            <BoxView Grid.RowSpan="2" />
+                            <BoxView Grid.RowSpan="2" BackgroundColor="{Binding Item.Completed, Converter={StaticResource statusColorConverter}}" />
                             <Label Grid.Column="1" Text="{Binding Item.Title}" FontSize="Large" />
                             <Label Grid.Column="1" Grid.Row="1" Text="{Binding Item.Due}" FontSize="Micro" />
-                            <Label Grid.Column="1" Grid.Row="1" HorizontalTextAlignment="End" Text="Completed" IsVisible="{Binding Item.Completed}" FontSize="Micro" />
+                            <Label Grid.Column="1" Grid.Row="1" HorizontalTextAlignment="End" Text="Completed" IsVisible="{Binding Item.Completed}" FontSize="Micro" />
+
                         </Grid>
                     </ViewCell>
                 </DataTemplate>
