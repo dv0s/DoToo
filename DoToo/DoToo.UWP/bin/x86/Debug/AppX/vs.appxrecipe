@@ -108,7 +108,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\danny\code\School\AVD-I-XAMARIN\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.dll">
       <PackagePath>DoToo.dll</PackagePath>
-      <Modified>2021-05-23T14:43:33.534</Modified>
+      <Modified>2021-05-23T14:50:26.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\danny\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
